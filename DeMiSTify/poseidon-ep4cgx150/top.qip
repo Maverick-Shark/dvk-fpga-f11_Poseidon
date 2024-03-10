@@ -1,0 +1,5 @@
+set_global_assignment -name QIP_FILE pll27.qip
+set_global_assignment -name QIP_FILE pll_vic20.qip
+set_global_assignment -name QIP_FILE pll_reconfig.qip
+set_global_assignment -name QIP_FILE rom_reconfig_pal.qip
+set_global_assignment -name QIP_FILE rom_reconfig_ntsc.qip
